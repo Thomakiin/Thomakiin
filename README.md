@@ -2,8 +2,8 @@
  
  <ul>
  <li> Indie game developer ❤ </li>
- <li> Gamer 🎮 </li>
  <li> Web developer 💻 </li>
- <li> Bug bounty hunter 🐞 </li>
+ <li> Web security enthusiast 💻 </li>
+ <li> Gamer 🎮 </li>
 </ul>
 
