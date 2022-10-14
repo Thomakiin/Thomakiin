@@ -3,6 +3,5 @@
 <ul>
  <li> Indie game developer ❤ </li>
  <li> Web developer 💻 </li>
- <li> Gamer 🎮 </li>
 </ul>
 
